@@ -1,7 +1,7 @@
 
 <h1>Nalbert Vinicius
 
-<h6>👨‍🚀 My name's Nalbert Vinicius</h6>
+<h4>👨‍🚀 My name's Nalbert Vinicius</h4>
 
 💻 I am studying systems analysis and development
 Thank you so much for visiting my profile ;)
