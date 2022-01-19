@@ -27,6 +27,6 @@
 
 <a href=""></a>
 ![Nalbert Status](https://github-readme-stats.vercel.app/api?username=nalbert-vinicius&show_icons=true&hide=css,less)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nalbert-vinicius&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nalbert-vinicius&hide=css,scss,less&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
