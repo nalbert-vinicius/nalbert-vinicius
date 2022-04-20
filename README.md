@@ -19,6 +19,7 @@
 <a href=""><img alt="Angular" height="39" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" style="max-width:100%;"></a>
 <a href=""><img alt="C#" height="39" width="40" src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" style="max-width:100%;"></a>
 <a href=""><img alt="Node" height="39" width="40" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" style="max-width:100%;"></a>
+<a href=""><img alt="Outsystems" height="39" width="40" src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/52/2e/4f/522e4fa7-69be-6df6-3167-90093a0c3b7c/source/512x512bb.jpg" style="max-width:100%;"></a>
 
 
 
