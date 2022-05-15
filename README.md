@@ -3,7 +3,7 @@
 
 <h4>👨‍🚀 My name's Nalbert Vinicius</h4>
 
-💻 I am studying systems analysis and development, thank you so much for visiting my profile :)
+💻 I am studying systems analysis and development, thank you so much for visiting my profile ;)
 
 <h4>Connect with me:</h4>
 <a href="https://www.linkedin.com/in/nalbert-vinicius/">
